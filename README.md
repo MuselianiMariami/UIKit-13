@@ -12,6 +12,5 @@
 
 <div align="center"> 
 <img src = "https://github.com/MuselianiMariami/UIKit-13/assets/137683336/fa867bc9-bee4-4dfa-b3b1-e3b04ebd89a9" width="300">
-<span>...</span>
 <img src = "https://github.com/MuselianiMariami/UIKit-13/assets/137683336/145b2416-a98d-4809-a965-dce8e9f9545c" width="300">
 </div>
